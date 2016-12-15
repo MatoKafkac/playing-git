@@ -1,8 +1,6 @@
 # playing-git
 Testing and playing with git
 
-Experimental HEAD
+111
 
-Zdar z clonu
 
-Zmena
