@@ -1,1 +1,2 @@
 Dalsi subor
+Zmena smartgit test
